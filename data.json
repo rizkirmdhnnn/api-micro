@@ -1,1 +1,1 @@
-[{"UID": "A3 92 40 11","Name": "rizki", "status" : "allow" },{"UID": "43 90 D3 9F","Name": "ramadhan",  "status" : "not-allow"}]
+[{"UID": "A3 92 40 11","Name": "rizki", "status" : "allow", "pin" : "1234"},{"UID": "43 90 D3 9F","Name": "ramadhan",  "status" : "not-allow", "pin" : "1111"}]
